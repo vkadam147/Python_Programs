@@ -6,6 +6,7 @@ def sum_of_sq(num):
     while num!=0:
         rem=num%10
         sum=sum+rem**2
+        
         num=num//10
     return sum
 print(sum_of_sq(234))

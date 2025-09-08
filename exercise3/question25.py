@@ -14,6 +14,7 @@ else:
 
 for j in range(1,1000):
     if is_perfect(j):
+        
         print(j)
 
 
