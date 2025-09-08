@@ -1,4 +1,5 @@
 # 21. Find all Armstrong numbers between 1 and 1000.
+print("asus vivobook")
 
 def is_arm(num):
     temp=num
