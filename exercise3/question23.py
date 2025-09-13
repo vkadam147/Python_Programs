@@ -8,7 +8,7 @@ def sum_of_sq(num):
         sum=sum+rem**2
         
         num=num//10
-        print("asus vivobook")
+
     return sum
 print(sum_of_sq(234))
 
